@@ -10,8 +10,8 @@ Luka Marčič
 ## Information
 
 For more information about the project, please consult the project web pages, mainly
-the [Github.io page](https://lukamarcic.github.io/steiner-systems/), which leads further to
-the [Blueprint](https://lukamarcic.github.io/steiner-systems/blueprint/),
-[Documentation](https://lukamarcic.github.io/steiner-systems/docs/) and
-[Dependancy Graph](https://lukamarcic.github.io/steiner-systems/blueprint/dep_graph_document.html)
+the [github.io page](https://lukamarcic.github.io/steiner-systems/), which leads further to
+the [blueprint](https://lukamarcic.github.io/steiner-systems/blueprint/),
+[documentation](https://lukamarcic.github.io/steiner-systems/docs/) and
+[dependancy Graph](https://lukamarcic.github.io/steiner-systems/blueprint/dep_graph_document.html)
 pages, aswell as back to this GitHub repository.
